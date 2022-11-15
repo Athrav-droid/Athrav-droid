@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athrav-droid&label=Profile%20views&color=0e75b6&style=flat" alt="athrav-droid" /> </p>
 
-- 🌱 I’m currently learning **Data Structure, Flutter and Kotlin**
+- 🌱 I’m currently learning **Data Structure and Flutter**
 
 - 📫 How to reach me **athravmehta06@gmail.com**
 
