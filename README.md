@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **athravmehta06@gmail.com**
 
-- 📄 Know about my experiences [https://www.hiration.com/dieu/resume/athravmehta06@gmail.com/pdf](https://www.hiration.com/dieu/resume/athravmehta06@gmail.com/pdf)
-
+- 📄 Know about my experiences https://flowcv.com/resume/wjoro9bhuq
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/athrav_mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="athrav_mehta" height="30" width="40" /></a>
