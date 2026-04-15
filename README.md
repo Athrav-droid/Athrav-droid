@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athrav-droid&label=Profile%20views&color=0e75b6&style=flat" alt="athrav-droid" /> </p>
 
-- 🚀 Focused on building scalable, type-safe frontend architectures within complex ecosystems[cite: 6].
+- 🚀 Focused on building scalable, type-safe frontend architectures within complex ecosystems.
 - 🤖 Specialized in **AI-Driven Development (AIDD)**, using Agentic workflows (Cursor, Warp, Claude) to accelerate delivery and optimize code quality.
-- 🛠️ Expert in **React, TypeScript, Redux Toolkit**, and **.NET 8/10**[cite: 7, 30].
-- 🏗️ Experience in migrating legacy systems to modern state management solutions and designing multi-tenant architectures[cite: 7, 16, 30].
-- 📫 Reach me at: **athravmehta06@gmail.com** [cite: 2]
+- 🛠️ Expert in **React, TypeScript, Redux Toolkit**, and **.NET 8/10**.
+- 🏗️ Experience in migrating legacy systems to modern state management solutions and designing multi-tenant architectures.
+- 📫 Reach me at: **athravmehta06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
